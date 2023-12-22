@@ -8,6 +8,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LvBfwBhvxlIK-_u3doF0HMTPlNrp75ec/view?usp=drive_link](https://drive.google.com/file/d/1LvBfwBhvxlIK-_u3doF0HMTPlNrp75ec/view?usp=drive_link)
 
+- - 📫 How to reach me **vinaypatil2423@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/vinay-mhaske-a0068221b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/vinay-mhaske-a0068221b" height="30" width="40" /></a>
